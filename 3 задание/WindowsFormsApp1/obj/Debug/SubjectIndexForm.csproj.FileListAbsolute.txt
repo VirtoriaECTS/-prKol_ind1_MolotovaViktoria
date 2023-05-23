@@ -1,0 +1,31 @@
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.AssemblyReference.cache
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.GenerateResource.cache
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.CoreCompileInputs.cache
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Основы алгоритмизации\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.MainForm.resources
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.AssemblyReference.cache
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.MainForm.resources
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.GenerateResource.cache
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.CoreCompileInputs.cache
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Основы алгоритмизации\Коллекции в C# (3)\Практика 15 (6 вариант)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.MainForm.resources
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\obj\Debug\SubjectIndexForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Desktop\Коллекции в C# (3-4)\3 задание (по практике 15 в форме)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
